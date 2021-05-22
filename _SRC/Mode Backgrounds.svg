@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="Mode Backgrounds.svg"
+   inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/mode-osu@2x.png"
+   inkscape:export-xdpi="136.60001"
+   inkscape:export-ydpi="136.60001">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#323232"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.686"
+     inkscape:cx="957.97013"
+     inkscape:cy="513.03865"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:snap-page="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-smooth-nodes="true">
+    <sodipodi:guide
+       position="960,540"
+       orientation="1,0"
+       id="guide935" />
+    <sodipodi:guide
+       position="960,540"
+       orientation="0,-1"
+       id="guide957" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="carousel bg">
+    <path
+       id="path925"
+       style="opacity:1;fill:#ffffff;stroke-width:6.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:160"
+       d="M 1230 0 A 1680.4572 1680.4572 0 0 0 1125.2578 584 A 1680.4572 1680.4572 0 0 0 1200.125 1080 L 1920 1080 L 1920 0 L 1230 0 z " />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="modeicons" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="common">
+    <circle
+       style="opacity:1;fill:#ffffff;stroke-width:6.00002;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:160"
+       id="path937"
+       cx="780"
+       cy="540"
+       r="180" />
+    <text
+       xml:space="preserve"
+       style="font-size:31.5939px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1"
+       x="781.67383"
+       y="331.36908"
+       id="text961"><tspan
+         sodipodi:role="line"
+         id="tspan959"
+         x="781.67383"
+         y="331.36908"
+         style="stroke-width:1">You are playing:</tspan></text>
+  </g>
+</svg>

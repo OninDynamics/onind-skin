@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/cursortrail@2x.png"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-ydpi="96.000008"
+   sodipodi:docname="cursor.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient864">
+      <stop
+         style="stop-color:#ff9e9e;stop-opacity:0.30980393"
+         offset="0"
+         id="stop860" />
+      <stop
+         style="stop-color:#ffe6e6;stop-opacity:0.02424232"
+         offset="0.82519388"
+         id="stop859" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop862" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1029">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.3255409"
+         offset="0"
+         id="stop1025" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.15930757"
+         offset="0.17039624"
+         id="stop1033" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop1027" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1029"
+       id="radialGradient1031"
+       cx="16.933352"
+       cy="16.933332"
+       fx="16.933352"
+       fy="16.933332"
+       r="5.0270834"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30887825,4.6270155e-8,6.8566995e-7,0.30887826,11.702977,11.702993)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient864"
+       id="radialGradient866"
+       cx="16.933256"
+       cy="16.933332"
+       fx="16.933256"
+       fy="16.933332"
+       r="33.866665"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,1.7161077e-8,1.1112334e-6,1,5.7739354e-5,-1.6799406e-7)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#323232"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.8808"
+     inkscape:cx="38.741296"
+     inkscape:cy="73.119659"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer5"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:snap-page="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid838"
+       spacingx="0.26458333"
+       spacingy="0.26458333"
+       empspacing="64"
+       color="#3f3fff"
+       opacity="0.05882353" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="cursortrail@2x"
+     style="display:inline;opacity:0.19790724"
+     sodipodi:insensitive="true">
+    <circle
+       style="fill:url(#radialGradient1031);fill-opacity:1;stroke:none;stroke-width:3.004;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1023"
+       cx="16.933332"
+       cy="16.933332"
+       r="1.5527568"
+       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin v0.0.1/cursortrail@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="cursor-smoke@2x"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <circle
+       style="fill:#ffffff;fill-opacity:0.190476;stroke:none;stroke-width:3.004;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1016"
+       cx="16.933332"
+       cy="16.933332"
+       r="3.2882576"
+       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin v0.0.1/cursor-smoke@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="cursor@2x"
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       id="layer7"
+       inkscape:label="visibring"
+       style="display:inline">
+      <circle
+         style="fill:none;stroke:#ffff67;stroke-width:1.85208;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path857"
+         cx="16.933332"
+         cy="16.933332"
+         r="7.8254724" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="cursormiddle@2x"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="extra-glow"
+       style="display:inline;opacity:0.633553"
+       sodipodi:insensitive="true">
+      <circle
+         style="fill:url(#radialGradient866);fill-opacity:1;stroke:none;stroke-width:5.29167;stroke-linecap:round"
+         id="path858"
+         cx="16.933332"
+         cy="16.933332"
+         r="33.866665" />
+    </g>
+    <circle
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:0.207792;stroke:#ffffff;stroke-width:3.004;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.928139"
+       id="path861"
+       cx="16.933332"
+       cy="16.933332"
+       r="6.288516"
+       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin v0.0.1/cursor@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:4.23333;stroke-linecap:round"
+       id="path854"
+       cx="16.933332"
+       cy="16.933332"
+       r="2.1272094" />
+  </g>
+</svg>
