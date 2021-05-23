@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="236"
@@ -12,13 +13,65 @@
    viewBox="0 0 62.441665 62.441665"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    sodipodi:docname="Hit Circle.svg"
-   inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/hitcircle@2x.png"
+   inkscape:export-filename="/home/onind/Repos/onind-skin-git/hitcircle@2x.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1084">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1076" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.8288089"
+         id="stop1078" />
+      <stop
+         style="stop-color:#b9b9b9;stop-opacity:0.00546067"
+         offset="0.93145597"
+         id="stop1080" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop1082" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1068">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1064" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.8288089"
+         id="stop1070" />
+      <stop
+         style="stop-color:#b9b9b9;stop-opacity:0.00546067"
+         offset="0.92361045"
+         id="stop1072" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop1066" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1036">
+      <stop
+         style="stop-color:#bfbfbf;stop-opacity:0"
+         offset="0"
+         id="stop1032" />
+      <stop
+         style="stop-color:#bfbfbf;stop-opacity:0.42320815"
+         offset="1"
+         id="stop1034" />
+    </linearGradient>
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Feather"
@@ -44,6 +97,52 @@
          result="composite3"
          id="feComposite1188" />
     </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1036"
+       id="radialGradient1038"
+       cx="31.220806"
+       cy="31.220833"
+       fx="31.220806"
+       fy="31.220833"
+       r="31.220833"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1.0759005,1.0759005,7.6383514e-6,-2.3696764,64.811075)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1068"
+       id="radialGradient1062"
+       cx="31.220823"
+       cy="31.220831"
+       fx="31.220823"
+       fy="31.220831"
+       r="27.992771"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98811253,9.1709027e-6,-8.2052721e-8,0.98811244,0.3711467,0.37085362)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1084"
+       id="radialGradient1074"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0909991,1.0125817e-5,-9.0596403e-8,1.090999,-2.841056,-2.8413796)"
+       cx="31.220823"
+       cy="31.220831"
+       fx="31.220823"
+       fy="31.220831"
+       r="27.992771" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1227"
+       x="-0.083247915"
+       width="1.1664958"
+       y="-0.083247915"
+       height="1.1664958">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.3302833"
+         id="feGaussianBlur1229" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -52,11 +151,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.6577794"
-     inkscape:cx="119.44262"
-     inkscape:cy="103.00137"
+     inkscape:zoom="2.6126996"
+     inkscape:cx="119.07731"
+     inkscape:cy="121.08404"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
      borderlayer="true"
@@ -67,7 +166,10 @@
      inkscape:window-height="1029"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid830"
@@ -100,27 +202,27 @@
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="Hitcircle Base"
-       style="display:inline">
+       style="display:inline;filter:url(#filter1227)">
       <circle
-         style="fill:#bfbfbf;fill-opacity:0.405195;stroke-width:1.00013;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:url(#radialGradient1038);fill-opacity:1;stroke-width:1.00013;stroke-miterlimit:4;stroke-dasharray:none"
          id="path843"
          cx="31.220833"
          cy="31.220833"
          inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin v0.0.1/hitcircle@2x.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
-         r="31.220833" />
+         r="33.590511" />
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer5"
        inkscape:label="Hitcircle Ring">
       <circle
-         style="fill:none;fill-opacity:0.405195;stroke:#ffffff;stroke-width:3.04270833;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;fill-opacity:1;stroke:url(#radialGradient1074);stroke-width:4.23333;stroke-miterlimit:4;stroke-dasharray:none"
          id="path2728"
-         cx="31.220831"
+         r="25.311895"
          cy="31.220831"
-         r="25.876104" />
+         cx="31.220831" />
     </g>
   </g>
   <g
