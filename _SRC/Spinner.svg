@@ -1,36 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2048"
    height="1404"
    viewBox="0 0 2048 1404"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="Spinner.svg"
-   inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/spinner-approachcircle@2x.png"
+   inkscape:export-filename="E:\osu\Skins\onind-skin\spinner-circle@2x.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1222"
-       x="-0.033992269"
-       width="1.0679845"
-       y="-0.033992269"
-       height="1.0679845">
+       x="-0.044765332"
+       width="1.0895307"
+       y="-0.044765332"
+       height="1.0895307">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="10.529999999999999"
          id="feGaussianBlur1224" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3859"
+       x="-0.083068626"
+       y="-0.083068626"
+       width="1.1661373"
+       height="1.1661373">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="11.862111"
+         id="feGaussianBlur3861" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -40,11 +53,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.56428571"
-     inkscape:cx="902.09809"
-     inkscape:cy="638.14052"
+     inkscape:zoom="0.7980205"
+     inkscape:cx="913.51036"
+     inkscape:cy="699.8567"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      borderlayer="true"
@@ -54,13 +67,16 @@
      inkscape:guide-bbox="true"
      inkscape:snap-object-midpoints="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-text-baseline="true">
+     inkscape:snap-text-baseline="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true">
     <sodipodi:guide
        position="1024,702"
        orientation="1,0"
@@ -92,7 +108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,8 +116,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="bg"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:none;mix-blend-mode:normal;filter:url(#filter3859)"
+     sodipodi:insensitive="true">
     <circle
        style="fill:#ffffff;fill-opacity:0.173379;stroke-width:2.00001"
        id="path968"
@@ -109,7 +125,7 @@
        cy="702"
        r="300.30823" />
     <circle
-       style="opacity:0.380328;fill:none;fill-opacity:0.173379;stroke:#80e0ff;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;stroke-opacity:1;filter:url(#filter1222)"
+       style="opacity:0.380328;fill:none;fill-opacity:0.173379;stroke:#59bbff;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;stroke-opacity:1;filter:url(#filter1222)"
        id="path972"
        cx="1024"
        cy="702"
@@ -119,39 +135,46 @@
      inkscape:label="spinni"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:1">
     <circle
-       style="fill:none;fill-opacity:0.173379;stroke:#ffffff;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:64, 16;stroke-dashoffset:160;stroke-opacity:1"
+       style="fill:none;fill-opacity:0.173379;stroke:#ffffff;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:15,30;stroke-dashoffset:66.6;stroke-opacity:1"
        id="path970"
        cx="1024"
        cy="702"
        r="331.23611" />
     <path
-       style="opacity:1;fill:none;fill-opacity:0.173379;stroke:#ffffff;stroke-width:4.832;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;stroke-opacity:1"
-       d="m 986.4467,702.00001 h 75.1065"
-       id="path1413" />
+       style="fill:none;fill-opacity:0.173379;stroke:#ffffff;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1"
+       id="circle4146"
+       sodipodi:type="arc"
+       sodipodi:cx="228.74695"
+       sodipodi:cy="1220.2551"
+       sodipodi:rx="331.23599"
+       sodipodi:ry="331.23611"
+       sodipodi:start="0"
+       sodipodi:end="4.7117739"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 559.98294,1220.2551 A 331.23599,331.23611 0 0 1 228.81486,1551.4912 331.23599,331.23611 0 0 1 -102.48902,1220.391 331.23599,331.23611 0 0 1 228.54321,889.01908"
+       transform="rotate(-44.949293)" />
     <path
-       style="opacity:1;fill:none;fill-opacity:0.173379;stroke:#ffffff;stroke-width:4.832;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;stroke-opacity:1"
-       d="M 1024,664.44682 V 739.5532"
-       id="path1415" />
-    <path
-       style="opacity:1;fill:none;fill-opacity:0.173379;stroke:#ffffff;stroke-width:4.832;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;stroke-opacity:1"
-       d="m 1008.7261,686.72614 30.5478,30.54772"
-       id="path1417" />
-    <path
-       style="opacity:1;fill:none;fill-opacity:0.173379;stroke:#ffffff;stroke-width:4.832;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;stroke-opacity:1"
-       d="m 1039.2738,686.72617 -30.5476,30.54766"
-       id="path1419" />
+       style="fill:none;stroke:#ffffff;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1024,403.80912 V 337.71866"
+       id="path4283" />
+    <circle
+       style="fill:#ffffff;stroke:none;stroke-width:9.99998;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4"
+       id="path4552"
+       cx="1024"
+       cy="702"
+       r="15" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="approachii"
-     style="display:inline"
+     style="display:none;opacity:0.243176"
      sodipodi:insensitive="true">
     <circle
-       style="opacity:1;fill:none;fill-opacity:0.173379;stroke:#80e0ff;stroke-width:4.832;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:0.173379;stroke:#59bbff;stroke-width:4.832;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;stroke-opacity:1"
        id="path1422"
        cx="1024"
        cy="702"
@@ -161,7 +184,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="spinni-spEEen"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
@@ -179,7 +202,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="speen renderbox"
-     style="display:inline;opacity:0"
+     style="display:none;opacity:0"
      sodipodi:insensitive="true">
     <rect
        style="opacity:0.135519;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:4.832;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;stroke-opacity:1"
@@ -196,7 +219,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="clear renderbox"
-     style="display:inline;opacity:0">
+     style="display:none;opacity:0"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.832;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;stroke-opacity:1"
        id="rect1448"
@@ -218,12 +242,14 @@
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="ref" />
+     inkscape:label="ref"
+     sodipodi:insensitive="true"
+     style="display:none" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="spinni-clIIAR"
-     style="display:inline">
+     style="display:none">
     <circle
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.832;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;stroke-opacity:1"
        id="path1446"

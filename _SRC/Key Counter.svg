@@ -6,7 +6,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/inputoverlay-background@2x.png"
+   inkscape:export-filename="E:\osu\Skins\onind-skin\inputoverlay-background@2x.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    sodipodi:docname="Key Counter.svg"
@@ -310,21 +310,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.2806599"
-     inkscape:cx="144.2565"
-     inkscape:cy="83.089988"
+     inkscape:zoom="2.8054691"
+     inkscape:cx="185.70869"
+     inkscape:cy="22.634361"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      borderlayer="true"
      inkscape:snap-page="true"
      units="px"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-intersection-paths="false"
-     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
@@ -333,7 +333,8 @@
      inkscape:snap-global="true"
      inkscape:object-paths="true"
      inkscape:object-nodes="true"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-midpoints="false">
     <sodipodi:guide
        position="193,110"
        orientation="-1,0"
@@ -363,85 +364,10 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer8"
-     inkscape:label="Layer 2"
-     style="display:inline;opacity:0.39671">
-    <g
-       id="g1488">
-      <circle
-         style="fill:#ff00ff;fill-opacity:0.504762;stroke:none;stroke-width:5"
-         id="use2804"
-         cx="148"
-         cy="48.061935"
-         r="36.39399" />
-      <circle
-         style="fill:#ff00ff;fill-opacity:0.504762;stroke:none;stroke-width:5"
-         id="circle3291"
-         cx="238"
-         cy="48.061935"
-         r="36.39399" />
-      <circle
-         style="fill:#ff00ff;fill-opacity:0.504762;stroke:none;stroke-width:5"
-         id="circle3293"
-         cx="328"
-         cy="48.061935"
-         r="36.39399" />
-      <circle
-         style="fill:#ff00ff;fill-opacity:0.504762;stroke:none;stroke-width:5"
-         id="circle3295"
-         cx="58"
-         cy="48.061935"
-         r="36.39399" />
-    </g>
-    <rect
-       style="fill:#ffffff;stroke-width:12;stroke-linecap:round"
-       id="rect1512"
-       width="386"
-       height="110"
-       x="0"
-       y="110" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="hitindindicator"
-     style="display:inline">
-    <rect
-       style="fill:#ffffff;stroke-width:7.04395;stroke-linecap:round"
-       id="rect970"
-       width="71.887161"
-       height="18.40443"
-       x="-135.24602"
-       y="-132.93274"
-       ry="9.2022152"
-       transform="rotate(90)"
-       inkscape:export-filename="E:\osu\Skins\onind-skin\inputoverlay-key@2x.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="renderbox"
-     style="display:inline;opacity:0">
-    <rect
-       style="fill:#ffe559;stroke-width:12;stroke-linecap:round"
-       id="rect1178"
-       width="71.887161"
-       height="132.93274"
-       x="-135.24602"
-       y="-132.93274"
-       transform="rotate(90)"
-       inkscape:export-filename="E:\osu\Skins\onind-skin\inputoverlay-key@2x.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="template"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <image
        width="400"
        height="100"
@@ -451,5 +377,119 @@
        id="image2738"
        x="0"
        y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="hitindindicator"
+     style="display:inline">
+    <rect
+       style="display:inline;opacity:1;fill:#262626;fill-opacity:1;stroke:none;stroke-width:14;stroke-linecap:round"
+       id="rect1518"
+       width="366.12387"
+       height="81.349167"
+       x="9.9380646"
+       y="-16.722532"
+       ry="10" />
+    <path
+       style="fill:#cc59ff;stroke:#cc59ff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 333.18801,64.626635 H 231.96665"
+       id="path2608" />
+    <path
+       style="fill:#ffe559;stroke:#ffe559;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 153.73138,64.626635 H 52.510023"
+       id="path2508" />
+    <rect
+       style="fill:#ffffff;stroke-width:7.04395;stroke-linecap:round"
+       id="rect970"
+       width="92.172081"
+       height="18.40443"
+       x="-145.38847"
+       y="-132.93274"
+       ry="9.2022152"
+       transform="rotate(90)"
+       inkscape:export-filename="E:\osu\Skins\onind-skin\inputoverlay-key@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:14;stroke-linecap:round"
+       id="rect2003"
+       width="67.557289"
+       height="86.670776"
+       x="24.221352"
+       y="4.7265491"
+       ry="9.016571" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2003"
+       id="use2467"
+       transform="translate(90)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2003"
+       id="use2471"
+       transform="translate(180)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2003"
+       id="use2473"
+       transform="translate(270)"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Layer 2"
+     style="display:none;opacity:0.39671">
+    <circle
+       style="fill:#ff00ff;fill-opacity:0.504762;stroke:none;stroke-width:5"
+       id="use2804"
+       cx="148"
+       cy="48.061935"
+       r="36.39399" />
+    <circle
+       style="fill:#ff00ff;fill-opacity:0.504762;stroke:none;stroke-width:5"
+       id="circle3291"
+       cx="238"
+       cy="48.061935"
+       r="36.39399" />
+    <circle
+       style="fill:#ff00ff;fill-opacity:0.504762;stroke:none;stroke-width:5"
+       id="circle3293"
+       cx="328"
+       cy="48.061935"
+       r="36.39399" />
+    <circle
+       style="fill:#ff00ff;fill-opacity:0.504762;stroke:none;stroke-width:5"
+       id="circle3295"
+       cx="58"
+       cy="48.061935"
+       r="36.39399" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="renderbox"
+     style="display:inline;opacity:0"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffe559;stroke-width:12;stroke-linecap:round"
+       id="rect1178"
+       width="92.172073"
+       height="132.93274"
+       x="-145.38847"
+       y="-132.93274"
+       transform="rotate(90)"
+       inkscape:export-filename="E:\osu\Skins\onind-skin\inputoverlay-key@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
