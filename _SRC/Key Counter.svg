@@ -5,8 +5,8 @@
    viewBox="0 0 386 110"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   inkscape:export-filename="E:\osu\Skins\onind-skin\inputoverlay-background@2x.png"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:export-filename="/home/onind/Repos/onind-skin/inputoverlay-background@2x.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    sodipodi:docname="Key Counter.svg"
@@ -20,6 +20,35 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
+    <inkscape:path-effect
+       effect="ruler"
+       id="path-effect1577"
+       is_visible="true"
+       lpeversion="1"
+       unit="px"
+       mark_distance="6.5"
+       mark_length="14"
+       minor_mark_length="7"
+       major_mark_steps="5"
+       shift="0"
+       offset="0"
+       mark_dir="left"
+       border_marks="both" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="0,0"
+       origin="50.033597,91.355029"
+       id="path-effect1575"
+       is_visible="true"
+       lpeversion="1"
+       method="normal"
+       num_copies="3"
+       starting_angle="0"
+       rotation_angle="60"
+       gap="-0.01"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false" />
     <linearGradient
        id="linearGradient2243"
        inkscape:swatch="solid">
@@ -310,11 +339,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8054691"
-     inkscape:cx="185.70869"
-     inkscape:cy="22.634361"
+     inkscape:zoom="2.0039065"
+     inkscape:cx="415.18903"
+     inkscape:cy="-35.680307"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
      borderlayer="true"
@@ -327,14 +356,16 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:object-paths="true"
      inkscape:object-nodes="true"
      inkscape:pagecheckerboard="0"
-     inkscape:snap-midpoints="false">
+     inkscape:snap-midpoints="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true">
     <sodipodi:guide
        position="193,110"
        orientation="-1,0"
@@ -380,75 +411,147 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="hitindindicator"
+     id="layer3"
+     inkscape:label="pad"
      style="display:inline">
-    <rect
-       style="display:inline;opacity:1;fill:#262626;fill-opacity:1;stroke:none;stroke-width:14;stroke-linecap:round"
-       id="rect1518"
-       width="366.12387"
-       height="81.349167"
-       x="9.9380646"
-       y="-16.722532"
-       ry="10" />
     <path
-       style="fill:#cc59ff;stroke:#cc59ff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 333.18801,64.626635 H 231.96665"
-       id="path2608" />
+       id="rect1607"
+       style="fill:#000000;stroke:#262626;stroke-width:4.90111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;paint-order:stroke fill markers"
+       d="M 2.4999998,-13.544922 V 100.8978 H 383.49999 V -13.544922 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="triangles"
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
-       style="fill:#ffe559;stroke:#ffe559;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 153.73138,64.626635 H 52.510023"
-       id="path2508" />
+       sodipodi:type="star"
+       style="fill:#59bbff;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:160;paint-order:stroke fill markers"
+       id="path1427"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="58"
+       sodipodi:cy="93.654732"
+       sodipodi:r1="9.1988096"
+       sodipodi:r2="4.5994048"
+       sodipodi:arg1="2.6179939"
+       sodipodi:arg2="3.6651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-y="-2.2997024"
+       d="M 50.033597,98.254136 54.016799,91.355029 58,84.455922 l 3.983201,6.899107 3.983202,6.899108 -7.966403,0 z" />
+    <path
+       sodipodi:type="star"
+       style="fill:#59bbff;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:160;paint-order:stroke fill markers"
+       id="path1579"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="148"
+       sodipodi:cy="93.654735"
+       sodipodi:r1="9.1988096"
+       sodipodi:r2="4.5994048"
+       sodipodi:arg1="2.6179939"
+       sodipodi:arg2="3.6651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-y="-2.2997024"
+       d="m 140.0336,98.254139 3.9832,-6.899107 3.9832,-6.899107 3.9832,6.899107 3.9832,6.899108 -7.9664,-1e-6 z" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff9559;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:160;paint-order:stroke fill markers"
+       id="path1581"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="238"
+       sodipodi:cy="93.654735"
+       sodipodi:r1="9.1988096"
+       sodipodi:r2="4.5994048"
+       sodipodi:arg1="2.6179939"
+       sodipodi:arg2="3.6651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-y="-2.2997024"
+       d="m 230.0336,98.254139 3.9832,-6.899107 3.9832,-6.899107 3.9832,6.899107 3.9832,6.899108 -7.9664,-1e-6 z" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff9559;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:160;paint-order:stroke fill markers"
+       id="path1583"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="328"
+       sodipodi:cy="93.654735"
+       sodipodi:r1="9.1988096"
+       sodipodi:r2="4.5994048"
+       sodipodi:arg1="2.6179939"
+       sodipodi:arg2="3.6651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-y="-2.2997024"
+       d="m 320.0336,98.254139 3.9832,-6.899107 3.9832,-6.899107 3.9832,6.899107 3.9832,6.899108 -7.9664,-1e-6 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="capsules">
     <rect
-       style="fill:#ffffff;stroke-width:7.04395;stroke-linecap:round"
-       id="rect970"
-       width="92.172081"
-       height="18.40443"
-       x="-145.38847"
-       y="-132.93274"
-       ry="9.2022152"
+       style="fill:#59bbff;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;paint-order:stroke fill markers"
+       id="rect2286"
+       width="20.296249"
+       height="4.8301563"
+       x="47.851875"
+       y="92.207283"
+       ry="2.4150782" />
+    <rect
+       style="fill:#ff9559;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;paint-order:stroke fill markers"
+       id="rect2980"
+       width="20.296249"
+       height="4.8301563"
+       x="317.85187"
+       y="92.207283"
+       ry="2.4150782"
+       rx="2.4150782" />
+    <rect
+       style="fill:#ff9559;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;paint-order:stroke fill markers"
+       id="rect2982"
+       width="20.296249"
+       height="4.8301563"
+       x="227.85188"
+       y="92.207283"
+       ry="2.4150782"
+       rx="2.4150782" />
+    <rect
+       style="fill:#59bbff;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;paint-order:stroke fill markers"
+       id="rect2984"
+       width="20.296249"
+       height="4.8301563"
+       x="137.85187"
+       y="92.207283"
+       ry="2.4150782"
+       rx="2.4150782" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="buttons">
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:160;paint-order:stroke fill markers"
+       id="rect1931"
+       width="96.123871"
+       height="100.85224"
+       x="-131.88525"
+       y="-120.18886"
        transform="rotate(90)"
-       inkscape:export-filename="E:\osu\Skins\onind-skin\inputoverlay-key@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/inputoverlay-key@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
-    <rect
-       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:14;stroke-linecap:round"
-       id="rect2003"
-       width="67.557289"
-       height="86.670776"
-       x="24.221352"
-       y="4.7265491"
-       ry="9.016571" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2003"
-       id="use2467"
-       transform="translate(90)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2003"
-       id="use2471"
-       transform="translate(180)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2003"
-       id="use2473"
-       transform="translate(270)"
-       width="100%"
-       height="100%" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Layer 2"
-     style="display:none;opacity:0.39671">
+     style="display:none;opacity:0.19837"
+     sodipodi:insensitive="true">
     <circle
        style="fill:#ff00ff;fill-opacity:0.504762;stroke:none;stroke-width:5"
        id="use2804"
@@ -478,18 +581,6 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="renderbox"
-     style="display:inline;opacity:0"
-     sodipodi:insensitive="true">
-    <rect
-       style="fill:#ffe559;stroke-width:12;stroke-linecap:round"
-       id="rect1178"
-       width="92.172073"
-       height="132.93274"
-       x="-145.38847"
-       y="-132.93274"
-       transform="rotate(90)"
-       inkscape:export-filename="E:\osu\Skins\onind-skin\inputoverlay-key@2x.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-  </g>
+     style="display:none;opacity:0"
+     sodipodi:insensitive="true" />
 </svg>

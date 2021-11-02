@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1920"
    height="1080"
    viewBox="0 0 1920 1080"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="Mode Backgrounds.svg"
-   inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/mode-osu@2x.png"
+   inkscape:export-filename="/home/onind/Repos/onind-skin/mode-fruits@2x.png"
    inkscape:export-xdpi="136.60001"
-   inkscape:export-ydpi="136.60001">
+   inkscape:export-ydpi="136.60001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -27,24 +28,26 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.686"
-     inkscape:cx="957.97013"
-     inkscape:cy="513.03865"
+     inkscape:cx="1172.0117"
+     inkscape:cy="493.44023"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
      showgrid="false"
      borderlayer="true"
      inkscape:snap-page="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1057"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:object-nodes="false">
     <sodipodi:guide
        position="960,540"
        orientation="1,0"
@@ -53,6 +56,18 @@
        position="960,540"
        orientation="0,-1"
        id="guide957" />
+    <sodipodi:guide
+       position="906.20945,539.99998"
+       orientation="1,0"
+       id="guide4697" />
+    <sodipodi:guide
+       position="779.99984,413.86864"
+       orientation="1,0"
+       id="guide4699" />
+    <sodipodi:guide
+       position="779.99984,329.27114"
+       orientation="0,-1"
+       id="guide4701" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -62,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -77,18 +92,9 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="modeicons" />
-  <g
-     inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="common">
-    <circle
-       style="opacity:1;fill:#ffffff;stroke-width:6.00002;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:160"
-       id="path937"
-       cx="780"
-       cy="540"
-       r="180" />
+     inkscape:label="common"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:31.5939px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1"
@@ -100,5 +106,197 @@
          x="781.67383"
          y="331.36908"
          style="stroke-width:1">You are playing:</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="modeicons"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer7"
+       inkscape:label="osu"
+       style="display:none">
+      <g
+         id="g887"
+         transform="matrix(1.7643876,0,0,1.7643876,-3557.732,-1331.8846)"
+         style="display:inline;stroke-width:1.11961">
+        <ellipse
+           style="fill:#59bbff;fill-opacity:1;stroke:#ffffff;stroke-width:13.4354;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path419"
+           cx="2458.4915"
+           cy="1060.9259"
+           rx="71.531616"
+           ry="71.487381" />
+        <ellipse
+           style="fill:#ffffff;stroke:none;stroke-width:16.7203;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1356"
+           cx="2458.4915"
+           cy="1060.9259"
+           rx="52.551311"
+           ry="52.518806" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;line-height:1.25;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT, Normal';text-align:center;text-anchor:middle;display:inline;fill:#ffffff"
+         x="779.99982"
+         y="750.72888"
+         id="text6809"><tspan
+           sodipodi:role="line"
+           id="tspan6807"
+           x="779.99982"
+           y="750.72888">osu!std</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4634"
+       inkscape:label="taiko"
+       style="display:none">
+      <g
+         id="g892"
+         transform="matrix(1.7643903,0,0,1.7643903,-3135.2789,-1315.645)"
+         style="display:inline;stroke-width:1.11961">
+        <ellipse
+           style="fill:#cc59ff;fill-opacity:1;stroke:#ffffff;stroke-width:13.4354;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle1942"
+           cx="2219.0547"
+           cy="1051.7202"
+           rx="71.531616"
+           ry="71.487381" />
+        <ellipse
+           style="fill:#ffffff;stroke:none;stroke-width:16.8756;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle1944"
+           cx="2219.0547"
+           cy="1051.7202"
+           rx="53.039299"
+           ry="53.0065" />
+        <path
+           style="fill:#ed8b53;fill-opacity:1;stroke:#cc59ff;stroke-width:14.1796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 2219.055,992.67889 V 1110.7616"
+           id="path4763" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;line-height:1.25;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
+         x="779.99982"
+         y="750.72888"
+         id="text14705"><tspan
+           sodipodi:role="line"
+           id="tspan14703"
+           x="779.99982"
+           y="750.72888">osu!taiko</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4632"
+       inkscape:label="catch"
+       style="display:inline">
+      <g
+         id="g899"
+         transform="matrix(1.7643875,0,0,1.7643875,-3135.2725,-791.1226)"
+         style="display:inline;stroke-width:1.11961">
+        <ellipse
+           style="fill:#ff9559;fill-opacity:1;stroke:#ffffff;stroke-width:13.4354;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle1946"
+           cx="2219.0547"
+           cy="754.4389"
+           rx="71.531616"
+           ry="71.487381" />
+        <ellipse
+           style="fill:#ffffff;stroke:none;stroke-width:16.8756;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle1948"
+           cx="2219.0547"
+           cy="754.4389"
+           rx="53.039299"
+           ry="53.0065" />
+        <ellipse
+           style="fill:#ff9559;fill-opacity:1;stroke:none;stroke-width:19.3613;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path4921"
+           cx="2235.9668"
+           cy="754.4389"
+           rx="13.007995"
+           ry="12.999939" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path4921"
+           id="use5105"
+           transform="translate(-26.016009,-25.999876)"
+           width="100%"
+           height="100%"
+           style="fill:#ff9559;fill-opacity:1;stroke-width:1.19056" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use5105"
+           id="use5107"
+           transform="translate(2.3246286e-6,51.999752)"
+           width="100%"
+           height="100%"
+           style="fill:#ff9559;fill-opacity:1;stroke-width:1.19056" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;line-height:1.25;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
+         x="779.99982"
+         y="750.72888"
+         id="text26343"><tspan
+           sodipodi:role="line"
+           id="tspan26341"
+           x="779.99982"
+           y="750.72888">osu!catch</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4630"
+       inkscape:label="mania"
+       style="display:none">
+      <g
+         id="g906"
+         transform="matrix(1.764393,0,0,1.764393,-3574.1519,-803.5775)"
+         style="display:inline;stroke-width:1.11961">
+        <ellipse
+           style="fill:#ffe559;fill-opacity:1;stroke:#ffffff;stroke-width:13.4354;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle1950"
+           cx="2467.79"
+           cy="761.49561"
+           rx="71.531616"
+           ry="71.487381" />
+        <ellipse
+           style="fill:#ffffff;stroke:none;stroke-width:16.8756;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle1952"
+           cx="2467.79"
+           cy="761.49561"
+           rx="53.039299"
+           ry="53.0065" />
+        <path
+           style="fill:#ffe659;fill-opacity:1;stroke:#ffe559;stroke-width:13.4354;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 2467.7904,791.96365 V 731.02743"
+           id="path6914" />
+        <path
+           style="fill:#ffe659;fill-opacity:1;stroke:#ffe559;stroke-width:13.4354;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 2488.7402,778.59643 V 744.39468"
+           id="path7050" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path7050"
+           id="use7052"
+           transform="translate(-41.899988)"
+           width="100%"
+           height="100%"
+           style="stroke-width:16.3415;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;line-height:1.25;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
+         x="779.99982"
+         y="750.72888"
+         id="text34193"><tspan
+           sodipodi:role="line"
+           id="tspan34191"
+           x="779.99982"
+           y="750.72888">osu!mania</tspan></text>
+    </g>
   </g>
 </svg>

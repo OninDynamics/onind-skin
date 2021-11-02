@@ -5,9 +5,9 @@
    viewBox="0 0 4350 1548"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="Mode Menu.svg"
-   inkscape:export-filename="E:\osu\Skins\onind-skin\mode-fruits-med@2x.png"
+   inkscape:export-filename="/home/onind/Repos/onind-skin/mode-fruits-med@2x.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -34,11 +34,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="3643.0141"
-     inkscape:cy="789.48472"
+     inkscape:zoom="0.72153755"
+     inkscape:cx="3263.8634"
+     inkscape:cy="823.93494"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g89729"
      inkscape:document-rotation="0"
      showgrid="false"
      borderlayer="true"
@@ -46,8 +46,8 @@
      units="px"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-smooth-nodes="true"
      inkscape:object-paths="true"
@@ -173,43 +173,58 @@
     <g
        id="g89729"
        transform="translate(-10,37.778175)">
-      <text
-         xml:space="preserve"
-         style="font-size:93.3333px;line-height:1.25;font-family:'Futura Hv BT';-inkscape-font-specification:'Futura Hv BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
-         x="3658.427"
-         y="787.68121"
-         id="text31053"><tspan
-           sodipodi:role="line"
-           id="tspan31051"
+      <g
+         id="g62742"
+         transform="translate(0,50.911687)">
+        <text
+           xml:space="preserve"
+           style="font-size:93.3333px;line-height:1.25;font-family:'Futura Hv BT';-inkscape-font-specification:'Futura Hv BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
            x="3658.427"
            y="787.68121"
-           style="font-size:93.3333px;text-align:center;text-anchor:middle">onind-skin<tspan
+           id="text31053"><tspan
+             sodipodi:role="line"
+             id="tspan31051"
+             x="3658.427"
+             y="787.68121"
+             style="font-size:93.3333px;text-align:center;text-anchor:middle">onind-skin<tspan
    style="font-size:46.6667px;baseline-shift:super;fill:#ff9559"
    id="tspan43885">alpha</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Futura Hv BT';-inkscape-font-specification:'Futura Hv BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
-         x="3897.427"
-         y="787.68121"
-         id="text34907"><tspan
-           sodipodi:role="line"
-           id="tspan34905"
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Futura Hv BT';-inkscape-font-specification:'Futura Hv BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
            x="3897.427"
-           y="787.68121">0.3.0<tspan
+           y="787.68121"
+           id="text34907"><tspan
+             sodipodi:role="line"
+             id="tspan34905"
+             x="3897.427"
+             y="787.68121">0.3.0<tspan
    style="fill:#a6a6a6"
    id="tspan88036">-git</tspan></tspan></text>
+      </g>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Futura Bk BT';-inkscape-font-specification:'Futura Bk BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
          x="3658.427"
-         y="835.68121"
+         y="751.63654"
          id="text63970"><tspan
            sodipodi:role="line"
            id="tspan63968"
            x="3658.427"
-           y="835.68121">SD/HD | 16:9 | osu!<tspan
+           y="751.63654">SD/HD | 16:9 | osu!<tspan
    style="fill:#59bbff"
-   id="tspan73796">std</tspan> only</tspan></text>
+   id="tspan73796">std</tspan> only (for now)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:25.7949px;line-height:1.25;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT, Normal';text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.644873"
+         x="3658.4109"
+         y="886.54163"
+         id="text58094"><tspan
+           sodipodi:role="line"
+           id="tspan58092"
+           x="3658.4109"
+           y="886.54163"
+           style="fill:#b3b3b3;stroke-width:0.644873">https://github.com/OninDynamics/onind-skin</tspan></text>
     </g>
     <g
        id="g98854">
@@ -286,28 +301,6 @@
          id="tspan98835"
          x="2808.7991"
          y="526.48926">ctrl + F4</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:246.434px;line-height:0.55;font-family:'Futura Bk BT';-inkscape-font-specification:'Futura Bk BT, Normal';stroke-width:8.40117"
-       x="445.52792"
-       y="873.46515"
-       id="text11042"
-       transform="rotate(-10.175325)"><tspan
-         sodipodi:role="line"
-         id="tspan11040"
-         x="445.52792"
-         y="873.46515"
-         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:8.40117"
-         dy="-0.029999999">727</tspan><tspan
-         sodipodi:role="line"
-         x="445.52792"
-         y="1009.0038"
-         id="tspan11044"
-         style="font-size:133.333px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:8.40117"><tspan
-   style="fill:#ff9559"
-   id="tspan30066">WYSI</tspan> <tspan
-   style="fill:#59bbff"
-   id="tspan27532">uwu</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
