@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="630.74896"
    height="62.285774"
    viewBox="0 0 630.74896 62.285774"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="font.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="font.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.123913"
-     inkscape:cx="610.5224"
-     inkscape:cy="42.061718"
+     inkscape:zoom="1.2654891"
+     inkscape:cx="135.12562"
+     inkscape:cy="144.21301"
      inkscape:document-units="px"
      inkscape:current-layer="layer7"
      inkscape:document-rotation="0"
@@ -38,11 +38,12 @@
      inkscape:guide-bbox="true"
      inkscape:snap-text-baseline="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1064"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="16"
      inkscape:window-maximized="1"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:pagecheckerboard="0">
     <sodipodi:guide
        position="3.9809849e-09,62.285774"
        orientation="0,-1"
@@ -51,10 +52,6 @@
        position="3.9809849e-09,10.546874"
        orientation="0,-1"
        id="guide3881" />
-    <sodipodi:guide
-       position="3.9809849e-09,-182.61218"
-       orientation="0,-1"
-       id="guide3883" />
     <inkscape:grid
        type="xygrid"
        id="grid4422" />
@@ -251,7 +248,7 @@
        inkscape:tile-x0="0"
        inkscape:tile-y0="2.3841858e-07"
        inkscape:label="score-0@2x"
-       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/_SRC/font/new/score-0@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-0@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -263,7 +260,7 @@
        y="0.0096054077"
        inkscape:tile-x0="0"
        inkscape:tile-y0="2.3841858e-07"
-       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/_SRC/font/new/score-1@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-1@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -275,7 +272,7 @@
        y="0.0096054077"
        inkscape:tile-x0="0"
        inkscape:tile-y0="2.3841858e-07"
-       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/_SRC/font/new/score-2@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-2@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -287,7 +284,7 @@
        y="0.0096054077"
        inkscape:tile-x0="0"
        inkscape:tile-y0="2.3841858e-07"
-       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/_SRC/font/new/score-3@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-3@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -299,7 +296,7 @@
        y="0.0096054077"
        inkscape:tile-x0="0"
        inkscape:tile-y0="2.3841858e-07"
-       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/_SRC/font/new/score-4@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-4@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -311,7 +308,7 @@
        y="0.0096054077"
        inkscape:tile-x0="0"
        inkscape:tile-y0="2.3841858e-07"
-       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/_SRC/font/new/score-5@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-5@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -323,7 +320,7 @@
        y="0.0096054077"
        inkscape:tile-x0="0"
        inkscape:tile-y0="2.3841858e-07"
-       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/_SRC/font/new/score-6@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-6@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -335,7 +332,7 @@
        y="0.0096054077"
        inkscape:tile-x0="0"
        inkscape:tile-y0="2.3841858e-07"
-       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/_SRC/font/new/score-7@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-7@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -347,7 +344,7 @@
        y="0.0096054077"
        inkscape:tile-x0="0"
        inkscape:tile-y0="2.3841858e-07"
-       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/_SRC/font/new/score-8@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-8@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -359,7 +356,7 @@
        y="0.0096054077"
        inkscape:tile-x0="0"
        inkscape:tile-y0="2.3841858e-07"
-       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/_SRC/font/new/score-9@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-9@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -371,7 +368,7 @@
        y="0.0096054077"
        inkscape:tile-x0="0"
        inkscape:tile-y0="2.3841858e-07"
-       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/_SRC/font/new/score-comma@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-comma@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -383,7 +380,7 @@
        y="0.0096054077"
        inkscape:tile-x0="0"
        inkscape:tile-y0="2.3841858e-07"
-       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/_SRC/font/new/score-dot@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-dot@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -395,7 +392,7 @@
        y="0.0096054077"
        inkscape:tile-x0="0"
        inkscape:tile-y0="2.3841858e-07"
-       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/_SRC/font/new/score-percent@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-percent@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -407,7 +404,176 @@
        y="0.0096054077"
        inkscape:tile-x0="0"
        inkscape:tile-y0="2.3841858e-07"
-       inkscape:export-filename="/home/onind/Pictures/Graphic Design Stuff/OniSkin DEVELOPMENT/font/combo/score-x@2x.png"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-x@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ff00ff;fill-opacity:0.173379;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8724"
+       width="43.196354"
+       height="62.276176"
+       x="0"
+       y="62.285782"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="2.3841858e-07"
+       inkscape:label="score-0@2x"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/combo/combo-0@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ff00ff;fill-opacity:0.173379;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8726"
+       width="43.196354"
+       height="62.276176"
+       x="45.196354"
+       y="62.285782"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="2.3841858e-07"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/combo/combo-1@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ff00ff;fill-opacity:0.173379;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8728"
+       width="43.196354"
+       height="62.276176"
+       x="90.392708"
+       y="62.285782"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="2.3841858e-07"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/combo/combo-2@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ff00ff;fill-opacity:0.173379;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8730"
+       width="43.196354"
+       height="62.276176"
+       x="135.58907"
+       y="62.285782"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="2.3841858e-07"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/combo/combo-3@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ff00ff;fill-opacity:0.173379;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8732"
+       width="43.196354"
+       height="62.276176"
+       x="180.78542"
+       y="62.285782"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="2.3841858e-07"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/combo/combo-4@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ff00ff;fill-opacity:0.173379;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8734"
+       width="43.196354"
+       height="62.276176"
+       x="225.98177"
+       y="62.285782"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="2.3841858e-07"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/combo/combo-5@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ff00ff;fill-opacity:0.173379;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8736"
+       width="43.196354"
+       height="62.276176"
+       x="271.17813"
+       y="62.285782"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="2.3841858e-07"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/combo/combo-6@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ff00ff;fill-opacity:0.173379;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8738"
+       width="43.196354"
+       height="62.276176"
+       x="316.37448"
+       y="62.285782"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="2.3841858e-07"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/combo/combo-7@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ff00ff;fill-opacity:0.173379;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8740"
+       width="43.196354"
+       height="62.276176"
+       x="361.57083"
+       y="62.285782"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="2.3841858e-07"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/combo/combo-8@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ff00ff;fill-opacity:0.173379;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8742"
+       width="43.196354"
+       height="62.276176"
+       x="406.76718"
+       y="62.285782"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="2.3841858e-07"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/combo/combo-9@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ff00ff;fill-opacity:0.173379;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8744"
+       width="43.196354"
+       height="62.276176"
+       x="451.96353"
+       y="62.285782"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="2.3841858e-07"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-comma@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ff00ff;fill-opacity:0.173379;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8746"
+       width="43.196354"
+       height="62.276176"
+       x="497.15988"
+       y="62.285782"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="2.3841858e-07"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-dot@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ff00ff;fill-opacity:0.173379;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8748"
+       width="43.196354"
+       height="62.276176"
+       x="542.35626"
+       y="62.285782"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="2.3841858e-07"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/score/score-percent@2x.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ff00ff;fill-opacity:0.173379;stroke:none;stroke-width:1.99999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8750"
+       width="54.49633"
+       height="62.276176"
+       x="587.55261"
+       y="62.285782"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="2.3841858e-07"
+       inkscape:export-filename="/home/onind/Repos/onind-skin/font/combo/combo-x@2x.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>
@@ -415,120 +581,282 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="text"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-size:60px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
        x="21.598177"
        y="51.738899"
        id="text4129"><tspan
-         id="tspan4143">0</tspan></text>
+         id="tspan4143"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:60px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
-       x="70.324799"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
+       x="65.847267"
        y="51.738899"
        id="text4148"><tspan
-         id="tspan4146">1</tspan></text>
+         id="tspan4146"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">1</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:60px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
-       x="114.48111"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
+       x="112.20573"
        y="51.738899"
        id="text4152"><tspan
-         id="tspan4150">2</tspan></text>
+         id="tspan4150"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:60px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
-       x="158.18332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
+       x="157.11888"
        y="51.738899"
        id="text4156"><tspan
-         id="tspan4154">3</tspan></text>
+         id="tspan4154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:60px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
-       x="203.64334"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
+       x="202.34453"
        y="51.738899"
        id="text4160"><tspan
-         id="tspan4158">4</tspan></text>
+         id="tspan4158"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">4</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:60px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
-       x="248.47348"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
+       x="247.78502"
        y="51.738899"
        id="text4164"><tspan
-         id="tspan4162">5</tspan></text>
+         id="tspan4162"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">5</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:60px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
-       x="292.92276"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
+       x="292.77631"
        y="51.738899"
        id="text4168"><tspan
-         id="tspan4166">6</tspan></text>
+         id="tspan4166"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">6</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:60px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
-       x="336.91794"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
+       x="338.11914"
        y="51.738899"
        id="text4172"><tspan
-         id="tspan4170">7</tspan></text>
+         id="tspan4170"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">7</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:60px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
-       x="383.19827"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
+       x="383.16901"
        y="51.738899"
        id="text4176"><tspan
-         id="tspan4174">8</tspan></text>
+         id="tspan4174"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">8</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:60px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
-       x="428.73154"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
+       x="428.48254"
        y="51.738899"
        id="text4180"><tspan
-         id="tspan4178">9</tspan></text>
+         id="tspan4178"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">9</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:44.191px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.999998"
-       x="473.55087"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.999998"
+       x="473.9035"
        y="51.738899"
        id="text4184"><tspan
          id="tspan4182"
-         style="stroke-width:0.999998">,</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999998">,</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:60px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
-       x="518.75806"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
+       x="518.82642"
        y="51.738899"
        id="text4188"><tspan
-         id="tspan4186">.</tspan></text>
+         id="tspan4186"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40.8101px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.999998"
-       x="563.93451"
-       y="44.992458"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2798px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.999998"
+       x="563.95447"
+       y="45.337696"
        id="text4192"><tspan
          id="tspan4190"
-         style="stroke-width:0.999998">%</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2798px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999998">%</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:60px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
-       x="609.15082"
-       y="63.755116"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff"
+       x="600.64862"
+       y="49.151024"
        id="text4540"><tspan
          sodipodi:role="line"
          id="tspan4538"
-         x="609.15082"
-         y="63.755116">*</tspan></text>
+         x="600.64862"
+         y="49.151024">*</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11.4982px;line-height:1.25;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Normal';text-align:center;text-anchor:middle;stroke-width:1"
-       x="616.3559"
-       y="51.738899"
-       id="text904"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080"
+       x="21.598177"
+       y="114.01508"
+       id="text8754"><tspan
+         id="tspan8752"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080"
+       x="65.847267"
+       y="114.01508"
+       id="text8758"><tspan
+         id="tspan8756"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080"
+       x="112.20573"
+       y="114.01508"
+       id="text8762"><tspan
+         id="tspan8760"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080"
+       x="157.11888"
+       y="114.01508"
+       id="text8766"><tspan
+         id="tspan8764"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080"
+       x="202.34453"
+       y="114.01508"
+       id="text8770"><tspan
+         id="tspan8768"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080"
+       x="247.78502"
+       y="114.01508"
+       id="text8774"><tspan
+         id="tspan8772"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080"
+       x="292.77631"
+       y="114.01508"
+       id="text8778"><tspan
+         id="tspan8776"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080"
+       x="338.11914"
+       y="114.01508"
+       id="text8782"><tspan
+         id="tspan8780"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080"
+       x="383.16901"
+       y="114.01508"
+       id="text8786"><tspan
+         id="tspan8784"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080"
+       x="428.48254"
+       y="114.01508"
+       id="text8790"><tspan
+         id="tspan8788"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.999998"
+       x="473.9035"
+       y="114.01508"
+       id="text8794"><tspan
+         id="tspan8792"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.999998">,</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080"
+       x="518.82642"
+       y="114.01508"
+       id="text8798"><tspan
+         id="tspan8796"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.7815px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080;stroke-width:1"
+       x="563.95447"
+       y="108.46799"
+       id="text8802"><tspan
+         id="tspan8800"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.7815px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:1">%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080"
+       x="600.64862"
+       y="108.09235"
+       id="text8806"><tspan
          sodipodi:role="line"
-         id="tspan902"
-         x="616.3559"
-         y="51.738899"
-         style="font-size:11.4982px;fill:#b3b3b3;stroke-width:1">combo</tspan></text>
+         id="tspan8804"
+         x="600.64862"
+         y="108.09235">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.999998"
+       x="617.59497"
+       y="114.01508"
+       id="text8810"><tspan
+         sodipodi:role="line"
+         id="tspan8808"
+         x="617.59497"
+         y="114.01508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Hack;-inkscape-font-specification:'Hack, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.999998">combo</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="ref"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;line-height:1.25;font-family:futura;-inkscape-font-specification:futura;text-align:end;text-anchor:end;fill:#ffffff"
+       x="0"
+       y="62.285774"
+       id="text10121"><tspan
+         sodipodi:role="line"
+         id="tspan10119"
+         x="0"
+         y="62.285774">score</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;line-height:1.25;font-family:futura;-inkscape-font-specification:futura;text-align:end;text-anchor:end;fill:#ffffff"
+       x="0"
+       y="124.56196"
+       id="text11499"><tspan
+         sodipodi:role="line"
+         id="tspan11497"
+         x="0"
+         y="124.56196">combo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;line-height:1.25;font-family:futura;-inkscape-font-specification:futura;text-align:end;text-anchor:end;fill:#ffffff"
+       x="-2.8006179"
+       y="193.33153"
+       id="text12601"><tspan
+         sodipodi:role="line"
+         id="tspan12599"
+         x="-2.8006179"
+         y="193.33153">hitcircle</tspan></text>
   </g>
 </svg>

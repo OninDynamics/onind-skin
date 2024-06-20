@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="157.38574"
+   height="92.764915"
+   viewBox="0 0 157.38574 92.764915"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Warning Arrow.svg"
+   inkscape:export-filename="../arrow-warning@2x.png"
+   inkscape:export-xdpi="92"
+   inkscape:export-ydpi="92"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="0.89411765"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:lockguides="false"
+     objecttolerance="7.1"
+     gridtolerance="4.7"
+     guidetolerance="2.2"
+     inkscape:snap-tangential="true"
+     inkscape:snap-perpendicular="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#000000"
+     inkscape:zoom="5.4305801"
+     inkscape:cx="82.311649"
+     inkscape:cy="70.894821"
+     inkscape:window-width="1920"
+     inkscape:window-height="1061"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(32.527136,25.819406)">
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:7.09036;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 15.80971,25.5008 V 2.5612725"
+       id="path3424" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.09036;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="path3489"
+       cx="15.809711"
+       cy="38.564831"
+       r="3.5451794" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:7.09036;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 76.521765,25.5008 V 2.5612725"
+       id="path3651" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.09036;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle3653"
+       cx="76.521767"
+       cy="38.564831"
+       r="3.5451794" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:7.09036;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 46.165739,25.5008 V 2.5612725"
+       id="path3657" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.09036;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle3659"
+       cx="46.165741"
+       cy="38.564831"
+       r="3.5451794" />
+  </g>
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>onindynamics</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

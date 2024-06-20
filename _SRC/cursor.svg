@@ -5,8 +5,8 @@
    viewBox="0 0 33.866666 33.866666"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
-   inkscape:export-filename="/home/onind/Repos/onind-skin-git/cursortrail@2x.png"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:export-filename="/home/onind/Repos/onind-skin/cursormiddle@2x.png"
    inkscape:export-xdpi="96.000008"
    inkscape:export-ydpi="96.000008"
    sodipodi:docname="cursor.svg"
@@ -28,8 +28,8 @@
          offset="0"
          id="stop860" />
       <stop
-         style="stop-color:#ffe6e6;stop-opacity:0.02424232"
-         offset="0.82519388"
+         style="stop-color:#ffe6e6;stop-opacity:0.05970149"
+         offset="0.50000006"
          id="stop859" />
       <stop
          style="stop-color:#ffffff;stop-opacity:0"
@@ -82,20 +82,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.908481"
-     inkscape:cx="57.45052"
-     inkscape:cy="65.16425"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="73.362328"
+     inkscape:cy="73.008775"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer6"
      inkscape:document-rotation="0"
      showgrid="false"
      borderlayer="true"
      inkscape:snap-page="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1064"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="16"
      inkscape:window-maximized="1"
      inkscape:snap-object-midpoints="true"
      inkscape:pagecheckerboard="0">
@@ -130,7 +130,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="cursortrail@2x"
-     style="display:inline;opacity:0.19790724"
+     style="display:none;opacity:0.197907"
      sodipodi:insensitive="true">
     <circle
        style="fill:url(#radialGradient1031);fill-opacity:1;stroke:none;stroke-width:3.004;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -162,7 +162,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="cursor@2x"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer7"
@@ -180,14 +181,12 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="cursormiddle@2x"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer6"
        inkscape:label="extra-glow"
-       style="display:inline;opacity:0.633553"
-       sodipodi:insensitive="true">
+       style="display:inline;opacity:0.69333333">
       <circle
          style="fill:url(#radialGradient866);fill-opacity:1;stroke:none;stroke-width:5.29167;stroke-linecap:round"
          id="path858"
